@@ -1,0 +1,610 @@
+[
+    {
+        "title": "Le Procès",
+        "author": "Franz Kafka"
+    },
+    {
+        "title": "Caligula",
+        "author": "Camus"
+    },
+    {
+        "title": "Le Testament Français",
+        "author": "Andrei Makine"
+    },
+    {
+        "title": "Le Prophète",
+        "author": "Khalil Gibran"
+    },
+    {
+        "title": "Un Bohneur De Rencontre",
+        "author": "Ian McEwan"
+    },
+    {
+        "title": "Le Bal du Gouverneur",
+        "author": "Marie-France Pisier"
+    },
+    {
+        "title": "Les Vertes Collines D'Afrique",
+        "author": "Hemingway"
+    },
+    {
+        "title": "La Maison Sous La Mer",
+        "author": "Paul Vialar"
+    },
+    {
+        "title": "Le Planétarium",
+        "author": "Natalie Sarraute"
+    },
+    {
+        "title": "Aventures D'Arthur Gordon Pym",
+        "author": "Poe"
+    },
+    {
+        "title": "La Religieuse",
+        "author": "Diderot"
+    },
+    {
+        "title": "Le Portrait De Dorian Grey",
+        "author": "Oscar Wilde"
+    },
+    {
+        "title": "Registre Des Morts",
+        "author": "Patricia Cornwell"
+    },
+    {
+        "title": "Le Lion",
+        "author": "Kessel"
+    },
+    {
+        "title": "Cheyenne",
+        "author": "Didier Von Cauwelaert"
+    },
+    {
+        "title": "Le Didon",
+        "author": "Feydeau"
+    },
+    {
+        "title": "Mémoires D'Outre Tombe",
+        "author": "Chateaubriand"
+    },
+    {
+        "title": "Les Chemins De Katmandou",
+        "author": "Barjavel"
+    },
+    {
+        "title": "Le Jour Le Plus Long",
+        "author": "Cornelius Ryan"
+    },
+    {
+        "title": "Les Mots",
+        "author": "Jean-Paul Sartre"
+    },
+    {
+        "title": "Un Amour",
+        "author": "Dino Buzzati"
+    },
+    {
+        "title": "Cela Notre Amour",
+        "author": "Marie Susini"
+    },
+    {
+        "title": "La Cicatrice",
+        "author": "Bruce Lowery"
+    },
+    {
+        "title": "En Avoir Ou Pas",
+        "author": "Hemingway"
+    },
+    {
+        "title": "Le Coeur en Quatre",
+        "author": "ClaireGallois"
+    },
+    {
+        "title": "L'Illusion Comique",
+        "author": "Corneille"
+    },
+    {
+        "title": "Le Dernier Jour D'un Condamné",
+        "author": "VIctor Hugo"
+    },
+    {
+        "title": "Le Roman de Tristan et Iseut",
+        "author": "Joseph Bédier"
+    },
+    {
+        "title": "L'Eduction Sentimentale",
+        "author": "Gustave Flaubert"
+    },
+    {
+        "title": "Le Rat D'Amérique",
+        "author": "Lanzman"
+    },
+    {
+        "title": "Antigone",
+        "author": "Sophocle"
+    },
+    {
+        "title": "La Nausée",
+        "author": "Jean-Paul Sartre"
+    },
+    {
+        "title": "La Belle Imposture",
+        "author": "Marie-France Pisier"
+    },
+    {
+        "title": "Le Rouge et le Noir",
+        "author": "Stendhal"
+    },
+    {
+        "title": "Un Effondrement",
+        "author": "Ghislaine Dunant"
+    },
+    {
+        "title": "Lolita",
+        "author": "Vladimir Nabokov"
+    },
+    {
+        "title": "Colomba et dix autres nouvelles",
+        "author": "Merimée"
+    },
+    {
+        "title": "Une Femme Réconciliée",
+        "author": "Janine Boissard"
+    },
+    {
+        "title": "Le silence de La Mer",
+        "author": "Vercors"
+    },
+    {
+        "title": "La Bonté: mode d'emploi",
+        "author": "Nick Hornby"
+    },
+    {
+        "title": "Le Petit Prince Cannibale",
+        "author": "Françoise Lefèvre"
+    },
+    {
+        "title": "Le Desert Des Tartares",
+        "author": "Dino Buzzati"
+    },
+    {
+        "title": "De Guerre Lasse",
+        "author": "Françoise Sagan"
+    },
+    {
+        "title": "Les Faux-Monnayeurs",
+        "author": "André Gide"
+    },
+    {
+        "title": "Aline et Valcour",
+        "author": "Sade"
+    },
+    {
+        "title": "L'Affaire Lemoine",
+        "author": "Marcel Proust"
+    },
+    {
+        "title": "Belgrave Square",
+        "author": "Anne Perry"
+    },
+    {
+        "title": "Hannah",
+        "author": "Paul-Loup Sulitzer"
+    },
+    {
+        "title": "Ce Que Je Savait Maisie",
+        "author": "Henry James"
+    },
+    {
+        "title": "Les Fleurs Du Mal",
+        "author": "Charles Beaudelaire"
+    },
+    {
+        "title": "La Farce de Maitre Pathelin",
+        "author": ""
+    },
+    {
+        "title": "La Fameuse Invasion De La Sicile Par Les Ours",
+        "author": "Dino Buzzati"
+    },
+    {
+        "title": "Dans Une Mois Dans Un An",
+        "author": "Françoise Sagan"
+    },
+    {
+        "title": "Martereau",
+        "author": "Nathalie Sarraute"
+    },
+    {
+        "title": "Entre La Vie Et La Mort",
+        "author": "Nathalie Sarraute"
+    },
+    {
+        "title": "Une Amour De Swann",
+        "author": "Marcel Proust"
+    },
+    {
+        "title": "Un Coup D'aile ",
+        "author": "Vladimir Nabokov"
+    },
+    {
+        "title": "L'enfant Et La Rivière",
+        "author": "Bosco"
+    },
+    {
+        "title": "La Faim Du Tigre",
+        "author": "Barjavel"
+    },
+    {
+        "title": "Cash!",
+        "author": "Paul-Loup Sulitzer"
+    },
+    {
+        "title": "L'amour, Béatrice",
+        "author": "Janine Boissard"
+    },
+    {
+        "title": "Poésies Completes",
+        "author": "Rimbaud"
+    },
+    {
+        "title": "Un Sang D'Aquarelle",
+        "author": "Françoise Sagan"
+    },
+    {
+        "title": "Les Noeud De Vipères",
+        "author": "François Mauriac"
+    },
+    {
+        "title": "Les Transsibériennes",
+        "author": "Jacques Lanzmann"
+    },
+    {
+        "title": "Le Diable au Corps",
+        "author": "Raymond Radiguet"
+    },
+    {
+        "title": "Ravage",
+        "author": "René Barjavel"
+    },
+    {
+        "title": "Le Reveillon Du Jeune Tsar",
+        "author": "Léon Tolstoï"
+    },
+    {
+        "title": "La Douleur",
+        "author": "Marguerite Duras"
+    },
+    {
+        "title": "Le Jardin Des Finzi-Contini",
+        "author": "Bassani"
+    },
+    {
+        "title": "Une Beauté Russe",
+        "author": "Vladimir Nabokov"
+    },
+    {
+        "title": "Le Crime Des Peres",
+        "author": "Michel Del Castillo"
+    },
+    {
+        "title": "La Salle De Bain",
+        "author": "Jean-Philippe Toussaint"
+    },
+    {
+        "title": "Portrait Du Joueur",
+        "author": "Philippe Sollers"
+    },
+    {
+        "title": "L'Avenir De Bernadette",
+        "author": "Janine Boissard"
+    },
+    {
+        "title": "Acide Sulfurique",
+        "author": "Amélie Nothomb"
+    },
+    {
+        "title": "Un Pas Vers La Mer",
+        "author": "Max Gallo"
+    },
+    {
+        "title": "Les Nouveux Aristocrates",
+        "author": "Michel de Saint Pierre"
+    },
+    {
+        "title": "Romans Et Contes",
+        "author": "Voltaire"
+    },
+    {
+        "title": "Nom, Prénom",
+        "author": "Christophe Nicolas"
+    },
+    {
+        "title": "Farenheit 451",
+        "author": "Ray Bradbury"
+    },
+    {
+        "title": "Les Trois Mousquetaires",
+        "author": "Alexandre Dumas"
+    },
+    {
+        "title": "Tous Les Hommes En Sont Fous",
+        "author": "Jean D'Ormesson"
+    },
+    {
+        "title": "La Brute",
+        "author": "Guy Des Cars"
+    },
+    {
+        "title": "La Douce Empoisonneuse",
+        "author": "Arto Paasilinna"
+    },
+    {
+        "title": "Jacques Le Fataliste",
+        "author": "Diderot"
+    },
+    {
+        "title": "Pentagruel",
+        "author": "Rabelais"
+    },
+    {
+        "title": "La Nuit De La Saint Jean",
+        "author": "Georges Duhamel"
+    },
+    {
+        "title": "La Nuit Des Temps",
+        "author": "René Barjavel"
+    },
+    {
+        "title": "les Champs D'Honneur",
+        "author": "Jean Rouaud"
+    },
+    {
+        "title": "Le Conformisme",
+        "author": "Alberto Moravia"
+    },
+    {
+        "title": "90 Poèmes Classiques Et Comtemporains",
+        "author": ""
+    },
+    {
+        "title": "Les Poneys Sauvages",
+        "author": "Michel Déon"
+    },
+    {
+        "title": "Enfance",
+        "author": "Nathalie Sarraute"
+    },
+    {
+        "title": "Les Chemins de La Liberté: Le Sursis",
+        "author": "Jean-Paul Sartre"
+    },
+    {
+        "title": "Yvain ou le Chevalier Au Lion",
+        "author": "Chrétien De Troyes"
+    },
+    {
+        "title": "Et si C'Etait Vrai",
+        "author": "Marc Levy"
+    },
+    {
+        "title": "Lorenzaccio",
+        "author": "Alfred De Musset"
+    },
+    {
+        "title": "Derrière L'Epaule",
+        "author": "Françoise Sagan"
+    },
+    {
+        "title": "A L'Ombre Des Filles En Fleurs",
+        "author": "Marcel Proust"
+    },
+    {
+        "title": "L'Or",
+        "author": "Cendras"
+    },
+    {
+        "title": "Le Petit Nicolas",
+        "author": "Sempté-Goscinny"
+    },
+    {
+        "title": "Les Confessions",
+        "author": "Rousseau"
+    },
+    {
+        "title": "Nouvelles Conférences D'Introduction à La Psychanalyse",
+        "author": "Freud"
+    },
+    {
+        "title": "L'enfer",
+        "author": "Henri Barbusse"
+    },
+    {
+        "title": "La Reine Morte",
+        "author": "Henry De Montherlant"
+    },
+    {
+        "title": "L'Odyssé: La Vengeance D'Ulysse (Chant XIII à XXIV)",
+        "author": "Homère"
+    },
+    {
+        "title": "L'Odyssé: Les Aventures Extraordinaires D'Ulysse (Chant VIII à XII)",
+        "author": "Homère"
+    },
+    {
+        "title": "Balzac Et La Petite Tailleuse Chinoise",
+        "author": "Dai Sijie"
+    },
+    {
+        "title": "Un Adolescent D'Autrefois",
+        "author": "François Mauriac"
+    },
+    {
+        "title": "La Porte",
+        "author": "Magda Szabo"
+    },
+    {
+        "title": "la Sonate à Kreutzer",
+        "author": "Tolstoï"
+    },
+    {
+        "title": "La Mort D'ivan Ilitch",
+        "author": "Tolstoï"
+    },
+    {
+        "title": "De Si Braves Garçons",
+        "author": "Modiano"
+    },
+    {
+        "title": "Le Dernier Souper et Autres Nouvelles",
+        "author": "Shusaku Endo"
+    },
+    {
+        "title": "Dojoji Et Autres Nouvelles",
+        "author": "Yukio Mishima"
+    },
+    {
+        "title": "Hiroshima Mon Amour",
+        "author": "Marguerite Duras"
+    },
+    {
+        "title": "La Mort Et La Terre",
+        "author": "Rosny Ainé"
+    },
+    {
+        "title": "Electre",
+        "author": "Jean Giraudoux"
+    },
+    {
+        "title": "La Manticore",
+        "author": "Robertson Davies"
+    },
+    {
+        "title": "Quinze Ans",
+        "author": "Philippe Labro"
+    },
+    {
+        "title": "La Peau De Chagrin",
+        "author": "Balzac"
+    },
+    {
+        "title": "Contrepoint ",
+        "author": "Aldous Huxley"
+    },
+    {
+        "title": "A Septembre, Petronella",
+        "author": "Jean Rhys"
+    },
+    {
+        "title": "Mouflets",
+        "author": "Susan Minot"
+    },
+    {
+        "title": "La Morte Amoureuse, La Cafetière et Autres Nouvelles ",
+        "author": "Gautier"
+    },
+    {
+        "title": "Nadja",
+        "author": "André Breton"
+    },
+    {
+        "title": "Au-Dela De Cette Limite Votre Ticket N'Est Plus Valable",
+        "author": "Romain Gary"
+    },
+    {
+        "title": "Silbermann",
+        "author": "Jacques De Lacretelle"
+    },
+    {
+        "title": "Le Violon De Crémone, Les Mines De Falun",
+        "author": "Hoffmann"
+    },
+    {
+        "title": "La Guerre Est Déclarée Et Autres Nouvelles",
+        "author": "Annie Saumont"
+    },
+    {
+        "title": "Mémoires D'Hadrien",
+        "author": "Marguerite Yourcenar"
+    },
+    {
+        "title": "Lapidation",
+        "author": "Alain Absire"
+    },
+    {
+        "title": "Alexis, Le Coup De Grâce",
+        "author": "Marguerite Yourcenar"
+    },
+    {
+        "title": "L'esprit Et L'Ame Se Tiennent Etroitement Unis",
+        "author": "Lucrèce"
+    },
+    {
+        "title": "Vanina Vanini, Le Coffre Et Le Revenant",
+        "author": "Stendhal"
+    },
+    {
+        "title": "Le Pavillon Des Parfums-Reunis",
+        "author": ""
+    },
+    {
+        "title": "L'Amour Fou",
+        "author": "André Breton"
+    },
+    {
+        "title": "La Chute",
+        "author": "Albert Camus"
+    },
+    {
+        "title": "La Transparence Des Choses",
+        "author": "Vladimir Nabokov"
+    },
+    {
+        "title": "L'idiot De Shanghai",
+        "author": "Pierre Peju"
+    },
+    {
+        "title": "Polyceyte",
+        "author": "Corneille"
+    },
+    {
+        "title": "Aucassin Et Nicolette",
+        "author": "Platon"
+    },
+    {
+        "title": "Protagoras",
+        "author": "Platon"
+    },
+    {
+        "title": "Euthydème",
+        "author": "Platon"
+    },
+    {
+        "title": "Gorgias",
+        "author": "Platon"
+    },
+    {
+        "title": "Ménexène",
+        "author": "Platon"
+    },
+    {
+        "title": "Ménon",
+        "author": "Platon"
+    },
+    {
+        "title": "Cratyle",
+        "author": "Platon"
+    },
+    {
+        "title": "Britannicus",
+        "author": "Racine"
+    },
+    {
+        "title": "Perceval Ou Le Conte Du Graal",
+        "author": "Chrétien De Troyes"
+    },
+    {
+        "title": "Pantagruel, Gargantua",
+        "author": "Rabelais"
+    }
+]
