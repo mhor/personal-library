@@ -61,7 +61,6 @@ function setUpBinding() {
     });
 }
 
-
 /**
  * Selects all books.
  */
@@ -87,7 +86,7 @@ function selectAllBooks() {
     }
 
     try {
-        var regexpAuthor = new RegExp(title, 'i');
+        var regexpAuthor = new RegExp(author, 'i');
     } catch (e) {
 
         $authorFormGroup.addClass('has-error');
@@ -156,7 +155,8 @@ function insertData(filename, tableSchema) {
                 return tableSchema.createRow(obj);
             });
             return db.insert().into(tableSchema).values(rows);
-        });
+        }
+    );
 }
 
 /**
@@ -178,5 +178,6 @@ function checkForExistingData() {
     return db.select(column).from(book).exec().then(
         function(rows) {
             return rows[0][column.getName()] > 0;
-        });
+        }
+    );
 }
