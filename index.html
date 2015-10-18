@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Books database</title>
+    <script src="lib/lovefield.min.js"></script>
+    <script src="lib/jquery.min.js"></script>
+    <script src="lib/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="lib/bootstrap.min.css">
+</head>
+<body>
+<div class="container">
+    <h1>Books Database</h1>
+    <div id="books-search">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h3 class="panel-title">Search</h3>
+            </div>
+            <div class="panel-body">
+                <form class="form-horizontal">
+                    <div class="form-group" id="titleFormGroup">
+                        <label for="title" class="col-sm-1 control-label">Title</label>
+                        <div class="col-sm-11">
+                            <input type="text" class="form-control" id="title" placeholder="À la recherche du temps perdu">
+                            <span id="titleHelpBox" class="help-block">Invalid RegExp</span>
+                        </div>
+                    </div>
+                    <div class="form-group" id="authorFormGroup">
+                        <label for="author" class="col-sm-1 control-label">Author</label>
+                        <div class="col-sm-11">
+                            <input type="text" class="form-control" id="author" placeholder="Marcel Proust">
+                            <span id="authorHelpBox" class="help-block">Invalid RegExp</span>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <ul id="books-list" class="list-group">
+    </ul>
+</div>
+
+<script src="lib/schema.js"></script>
+<script src="lib/personal_lib.js"></script>
+</body>
+</html>
