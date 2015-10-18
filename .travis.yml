@@ -7,7 +7,6 @@ sudo: false
 
 before_script:
   - npm install -g gulp
-  - npm install
   - bower install
 
 script:
