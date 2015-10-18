@@ -23,7 +23,7 @@ gulp.task('copy_dependencies', function() {
     'bower_components/lovefield/dist/lovefield.min.js',
 
     // CSS dependencies
-    'bower_components/bootstrap/dist/css/bootstrap.min.css',
+    'bower_components/bootstrap/dist/css/bootstrap.min.css'
   ];
 
   filesToCopy.forEach(function(file) {

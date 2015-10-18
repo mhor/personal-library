@@ -3,7 +3,7 @@
 set -e
 set -x
 
-cd _build/html
+cd dist
 
 if [ -d ".git" ]; then
     rm -rf .git

@@ -1,0 +1,21 @@
+{
+    "name": "personal-library",
+    "version": "0.0.1",
+    "description": "list of my books",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mhor/personal-library"
+    },
+    "author": "Maxime Horcholle",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/mhor/personal-library/issues"
+    },
+    "homepage": "https://github.com/mhor/personal-library",
+    "devDependencies": {
+        "fs-extra": "^0.24.0",
+        "gulp": "^3.9.0",
+        "gulp-webserver": "^0.9.1",
+        "nopt": "^3.0.4"
+    }
+}
