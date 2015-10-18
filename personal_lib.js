@@ -107,6 +107,7 @@ function selectAllBooks() {
             book.title.match(regexpTitle),
             book.author.match(regexpAuthor)
         ))
+        .orderBy(book.author, lf.Order.ASC)
         .exec().then(
         function(results) {
 
