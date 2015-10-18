@@ -3,4 +3,4 @@
 set -e
 set -x
 
-gulp build --target=lib --mode=opt
+gulp export
