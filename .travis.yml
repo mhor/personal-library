@@ -18,4 +18,4 @@ script:
   - tools/build.sh
 
 after_success:
-  - tools/deploy.sh
+  - if [ "$TRAVIS_PULL_REQUEST" = "false" ]  && [ "$TRAVIS_BRANCH" = 'master' ]; then tools/deploy.sh; fi
