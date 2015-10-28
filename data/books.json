@@ -1,0 +1,762 @@
+[
+    {
+        "id": 1,
+        "title": "Le Proc\u00e8s",
+        "authorId": 1
+    },
+    {
+        "id": 2,
+        "title": "Caligula",
+        "authorId": 2
+    },
+    {
+        "id": 3,
+        "title": "Le Testament Fran\u00e7ais",
+        "authorId": 3
+    },
+    {
+        "id": 4,
+        "title": "Le Proph\u00e8te",
+        "authorId": 4
+    },
+    {
+        "id": 5,
+        "title": "Un Bohneur De Rencontre",
+        "authorId": 5
+    },
+    {
+        "id": 6,
+        "title": "Le Bal du Gouverneur",
+        "authorId": 6
+    },
+    {
+        "id": 7,
+        "title": "La Belle Imposture",
+        "authorId": 6
+    },
+    {
+        "id": 8,
+        "title": "Les Vertes Collines D'Afrique",
+        "authorId": 7
+    },
+    {
+        "id": 9,
+        "title": "En Avoir Ou Pas",
+        "authorId": 7
+    },
+    {
+        "id": 10,
+        "title": "La Maison Sous La Mer",
+        "authorId": 8
+    },
+    {
+        "id": 11,
+        "title": "Le Plan\u00e9tarium",
+        "authorId": 9
+    },
+    {
+        "id": 12,
+        "title": "Aventures D'Arthur Gordon Pym",
+        "authorId": 10
+    },
+    {
+        "id": 13,
+        "title": "La Religieuse",
+        "authorId": 11
+    },
+    {
+        "id": 14,
+        "title": "Jacques Le Fataliste",
+        "authorId": 11
+    },
+    {
+        "id": 15,
+        "title": "Le Portrait De Dorian Grey",
+        "authorId": 12
+    },
+    {
+        "id": 16,
+        "title": "Registre Des Morts",
+        "authorId": 13
+    },
+    {
+        "id": 17,
+        "title": "Le Lion",
+        "authorId": 14
+    },
+    {
+        "id": 18,
+        "title": "Cheyenne",
+        "authorId": 15
+    },
+    {
+        "id": 19,
+        "title": "Le Didon",
+        "authorId": 16
+    },
+    {
+        "id": 20,
+        "title": "M\u00e9moires D'Outre Tombe",
+        "authorId": 17
+    },
+    {
+        "id": 21,
+        "title": "Les Chemins De Katmandou",
+        "authorId": 18
+    },
+    {
+        "id": 22,
+        "title": "La Faim Du Tigre",
+        "authorId": 18
+    },
+    {
+        "id": 23,
+        "title": "Le Jour Le Plus Long",
+        "authorId": 19
+    },
+    {
+        "id": 24,
+        "title": "Les Mots",
+        "authorId": 20
+    },
+    {
+        "id": 25,
+        "title": "La Naus\u00e9e",
+        "authorId": 20
+    },
+    {
+        "id": 26,
+        "title": "Les Chemins de La Libert\u00e9: Le Sursis",
+        "authorId": 20
+    },
+    {
+        "id": 27,
+        "title": "Un Amour",
+        "authorId": 21
+    },
+    {
+        "id": 28,
+        "title": "Le Desert Des Tartares",
+        "authorId": 21
+    },
+    {
+        "id": 29,
+        "title": "La Fameuse Invasion De La Sicile Par Les Ours",
+        "authorId": 21
+    },
+    {
+        "id": 30,
+        "title": "Cela Notre Amour",
+        "authorId": 22
+    },
+    {
+        "id": 31,
+        "title": "La Cicatrice",
+        "authorId": 23
+    },
+    {
+        "id": 32,
+        "title": "Le Coeur en Quatre",
+        "authorId": 24
+    },
+    {
+        "id": 33,
+        "title": "L'Illusion Comique",
+        "authorId": 25
+    },
+    {
+        "id": 34,
+        "title": "Polyceyte",
+        "authorId": 25
+    },
+    {
+        "id": 35,
+        "title": "Le Dernier Jour D'un Condamn\u00e9",
+        "authorId": 26
+    },
+    {
+        "id": 36,
+        "title": "Le Roman de Tristan et Iseut",
+        "authorId": 27
+    },
+    {
+        "id": 37,
+        "title": "L'Eduction Sentimentale",
+        "authorId": 28
+    },
+    {
+        "id": 38,
+        "title": "Le Rat D'Am\u00e9rique",
+        "authorId": 29
+    },
+    {
+        "id": 39,
+        "title": "Antigone",
+        "authorId": 30
+    },
+    {
+        "id": 40,
+        "title": "Le Rouge et le Noir",
+        "authorId": 31
+    },
+    {
+        "id": 41,
+        "title": "Vanina Vanini, Le Coffre Et Le Revenant",
+        "authorId": 31
+    },
+    {
+        "id": 42,
+        "title": "Un Effondrement",
+        "authorId": 32
+    },
+    {
+        "id": 43,
+        "title": "Lolita",
+        "authorId": 33
+    },
+    {
+        "id": 44,
+        "title": "Un Coup D'aile ",
+        "authorId": 33
+    },
+    {
+        "id": 45,
+        "title": "Une Beaut\u00e9 Russe",
+        "authorId": 33
+    },
+    {
+        "id": 46,
+        "title": "La Transparence Des Choses",
+        "authorId": 33
+    },
+    {
+        "id": 47,
+        "title": "Colomba et dix autres nouvelles",
+        "authorId": 34
+    },
+    {
+        "id": 48,
+        "title": "Une Femme R\u00e9concili\u00e9e",
+        "authorId": 35
+    },
+    {
+        "id": 49,
+        "title": "L'amour, B\u00e9atrice",
+        "authorId": 35
+    },
+    {
+        "id": 50,
+        "title": "L'Avenir De Bernadette",
+        "authorId": 35
+    },
+    {
+        "id": 51,
+        "title": "Le silence de La Mer",
+        "authorId": 36
+    },
+    {
+        "id": 52,
+        "title": "La Bont\u00e9: mode d'emploi",
+        "authorId": 37
+    },
+    {
+        "id": 53,
+        "title": "Le Petit Prince Cannibale",
+        "authorId": 38
+    },
+    {
+        "id": 54,
+        "title": "De Guerre Lasse",
+        "authorId": 39
+    },
+    {
+        "id": 55,
+        "title": "Dans Une Mois Dans Un An",
+        "authorId": 39
+    },
+    {
+        "id": 56,
+        "title": "Un Sang D'Aquarelle",
+        "authorId": 39
+    },
+    {
+        "id": 57,
+        "title": "Derri\u00e8re L'Epaule",
+        "authorId": 39
+    },
+    {
+        "id": 58,
+        "title": "Les Faux-Monnayeurs",
+        "authorId": 40
+    },
+    {
+        "id": 59,
+        "title": "Aline et Valcour",
+        "authorId": 41
+    },
+    {
+        "id": 60,
+        "title": "L'Affaire Lemoine",
+        "authorId": 42
+    },
+    {
+        "id": 61,
+        "title": "Une Amour De Swann",
+        "authorId": 42
+    },
+    {
+        "id": 62,
+        "title": "A L'Ombre Des Filles En Fleurs",
+        "authorId": 42
+    },
+    {
+        "id": 63,
+        "title": "Belgrave Square",
+        "authorId": 43
+    },
+    {
+        "id": 64,
+        "title": "Hannah",
+        "authorId": 44
+    },
+    {
+        "id": 65,
+        "title": "Cash!",
+        "authorId": 44
+    },
+    {
+        "id": 66,
+        "title": "Ce Que Je Savait Maisie",
+        "authorId": 45
+    },
+    {
+        "id": 67,
+        "title": "Les Fleurs Du Mal",
+        "authorId": 46
+    },
+    {
+        "id": 68,
+        "title": "La Farce de Maitre Pathelin",
+        "authorId": 47
+    },
+    {
+        "id": 69,
+        "title": "90 Po\u00e8mes Classiques Et Comtemporains",
+        "authorId": 47
+    },
+    {
+        "id": 70,
+        "title": "Le Pavillon Des Parfums-Reunis",
+        "authorId": 47
+    },
+    {
+        "id": 71,
+        "title": "Martereau",
+        "authorId": 48
+    },
+    {
+        "id": 72,
+        "title": "Entre La Vie Et La Mort",
+        "authorId": 48
+    },
+    {
+        "id": 73,
+        "title": "Enfance",
+        "authorId": 48
+    },
+    {
+        "id": 74,
+        "title": "L'enfant Et La Rivi\u00e8re",
+        "authorId": 49
+    },
+    {
+        "id": 75,
+        "title": "Po\u00e9sies Completes",
+        "authorId": 50
+    },
+    {
+        "id": 76,
+        "title": "Les Noeud De Vip\u00e8res",
+        "authorId": 51
+    },
+    {
+        "id": 77,
+        "title": "Un Adolescent D'Autrefois",
+        "authorId": 51
+    },
+    {
+        "id": 78,
+        "title": "Les Transsib\u00e9riennes",
+        "authorId": 52
+    },
+    {
+        "id": 79,
+        "title": "Le Diable au Corps",
+        "authorId": 53
+    },
+    {
+        "id": 80,
+        "title": "Ravage",
+        "authorId": 54
+    },
+    {
+        "id": 81,
+        "title": "La Nuit Des Temps",
+        "authorId": 54
+    },
+    {
+        "id": 82,
+        "title": "Le Reveillon Du Jeune Tsar",
+        "authorId": 55
+    },
+    {
+        "id": 83,
+        "title": "La Douleur",
+        "authorId": 56
+    },
+    {
+        "id": 84,
+        "title": "Hiroshima Mon Amour",
+        "authorId": 56
+    },
+    {
+        "id": 85,
+        "title": "Le Jardin Des Finzi-Contini",
+        "authorId": 57
+    },
+    {
+        "id": 86,
+        "title": "Le Crime Des Peres",
+        "authorId": 58
+    },
+    {
+        "id": 87,
+        "title": "La Salle De Bain",
+        "authorId": 59
+    },
+    {
+        "id": 88,
+        "title": "Portrait Du Joueur",
+        "authorId": 60
+    },
+    {
+        "id": 89,
+        "title": "Acide Sulfurique",
+        "authorId": 61
+    },
+    {
+        "id": 90,
+        "title": "Un Pas Vers La Mer",
+        "authorId": 62
+    },
+    {
+        "id": 91,
+        "title": "Les Nouveux Aristocrates",
+        "authorId": 63
+    },
+    {
+        "id": 92,
+        "title": "Romans Et Contes",
+        "authorId": 64
+    },
+    {
+        "id": 93,
+        "title": "Nom, Pr\u00e9nom",
+        "authorId": 65
+    },
+    {
+        "id": 94,
+        "title": "Farenheit 451",
+        "authorId": 66
+    },
+    {
+        "id": 95,
+        "title": "Les Trois Mousquetaires",
+        "authorId": 67
+    },
+    {
+        "id": 96,
+        "title": "Tous Les Hommes En Sont Fous",
+        "authorId": 68
+    },
+    {
+        "id": 97,
+        "title": "La Brute",
+        "authorId": 69
+    },
+    {
+        "id": 98,
+        "title": "La Douce Empoisonneuse",
+        "authorId": 70
+    },
+    {
+        "id": 99,
+        "title": "Pentagruel",
+        "authorId": 71
+    },
+    {
+        "id": 100,
+        "title": "Pantagruel, Gargantua",
+        "authorId": 71
+    },
+    {
+        "id": 101,
+        "title": "La Nuit De La Saint Jean",
+        "authorId": 72
+    },
+    {
+        "id": 102,
+        "title": "les Champs D'Honneur",
+        "authorId": 73
+    },
+    {
+        "id": 103,
+        "title": "Le Conformisme",
+        "authorId": 74
+    },
+    {
+        "id": 104,
+        "title": "Les Poneys Sauvages",
+        "authorId": 75
+    },
+    {
+        "id": 105,
+        "title": "Yvain ou le Chevalier Au Lion",
+        "authorId": 76
+    },
+    {
+        "id": 106,
+        "title": "Perceval Ou Le Conte Du Graal",
+        "authorId": 76
+    },
+    {
+        "id": 107,
+        "title": "Et si C'Etait Vrai",
+        "authorId": 77
+    },
+    {
+        "id": 108,
+        "title": "Lorenzaccio",
+        "authorId": 78
+    },
+    {
+        "id": 109,
+        "title": "L'Or",
+        "authorId": 79
+    },
+    {
+        "id": 110,
+        "title": "Le Petit Nicolas",
+        "authorId": 80
+    },
+    {
+        "id": 111,
+        "title": "Les Confessions",
+        "authorId": 81
+    },
+    {
+        "id": 112,
+        "title": "Nouvelles Conf\u00e9rences D'Introduction \u00e0 La Psychanalyse",
+        "authorId": 82
+    },
+    {
+        "id": 113,
+        "title": "L'enfer",
+        "authorId": 83
+    },
+    {
+        "id": 114,
+        "title": "La Reine Morte",
+        "authorId": 84
+    },
+    {
+        "id": 115,
+        "title": "L'Odyss\u00e9: La Vengeance D'Ulysse (Chant XIII \u00e0 XXIV)",
+        "authorId": 85
+    },
+    {
+        "id": 116,
+        "title": "L'Odyss\u00e9: Les Aventures Extraordinaires D'Ulysse (Chant VIII \u00e0 XII)",
+        "authorId": 85
+    },
+    {
+        "id": 117,
+        "title": "Balzac Et La Petite Tailleuse Chinoise",
+        "authorId": 86
+    },
+    {
+        "id": 118,
+        "title": "La Porte",
+        "authorId": 87
+    },
+    {
+        "id": 119,
+        "title": "la Sonate \u00e0 Kreutzer",
+        "authorId": 88
+    },
+    {
+        "id": 120,
+        "title": "La Mort D'ivan Ilitch",
+        "authorId": 88
+    },
+    {
+        "id": 121,
+        "title": "De Si Braves Gar\u00e7ons",
+        "authorId": 89
+    },
+    {
+        "id": 122,
+        "title": "Le Dernier Souper et Autres Nouvelles",
+        "authorId": 90
+    },
+    {
+        "id": 123,
+        "title": "Dojoji Et Autres Nouvelles",
+        "authorId": 91
+    },
+    {
+        "id": 124,
+        "title": "La Mort Et La Terre",
+        "authorId": 92
+    },
+    {
+        "id": 125,
+        "title": "Electre",
+        "authorId": 93
+    },
+    {
+        "id": 126,
+        "title": "La Manticore",
+        "authorId": 94
+    },
+    {
+        "id": 127,
+        "title": "Quinze Ans",
+        "authorId": 95
+    },
+    {
+        "id": 128,
+        "title": "La Peau De Chagrin",
+        "authorId": 96
+    },
+    {
+        "id": 129,
+        "title": "Contrepoint ",
+        "authorId": 97
+    },
+    {
+        "id": 130,
+        "title": "A Septembre, Petronella",
+        "authorId": 98
+    },
+    {
+        "id": 131,
+        "title": "Mouflets",
+        "authorId": 99
+    },
+    {
+        "id": 132,
+        "title": "La Morte Amoureuse, La Cafeti\u00e8re et Autres Nouvelles ",
+        "authorId": 100
+    },
+    {
+        "id": 133,
+        "title": "Nadja",
+        "authorId": 101
+    },
+    {
+        "id": 134,
+        "title": "L'Amour Fou",
+        "authorId": 101
+    },
+    {
+        "id": 135,
+        "title": "Au-Dela De Cette Limite Votre Ticket N'Est Plus Valable",
+        "authorId": 102
+    },
+    {
+        "id": 136,
+        "title": "Silbermann",
+        "authorId": 103
+    },
+    {
+        "id": 137,
+        "title": "Le Violon De Cr\u00e9mone, Les Mines De Falun",
+        "authorId": 104
+    },
+    {
+        "id": 138,
+        "title": "La Guerre Est D\u00e9clar\u00e9e Et Autres Nouvelles",
+        "authorId": 105
+    },
+    {
+        "id": 139,
+        "title": "M\u00e9moires D'Hadrien",
+        "authorId": 106
+    },
+    {
+        "id": 140,
+        "title": "Alexis, Le Coup De Gr\u00e2ce",
+        "authorId": 106
+    },
+    {
+        "id": 141,
+        "title": "Lapidation",
+        "authorId": 107
+    },
+    {
+        "id": 142,
+        "title": "L'esprit Et L'Ame Se Tiennent Etroitement Unis",
+        "authorId": 108
+    },
+    {
+        "id": 143,
+        "title": "La Chute",
+        "authorId": 109
+    },
+    {
+        "id": 144,
+        "title": "L'idiot De Shanghai",
+        "authorId": 110
+    },
+    {
+        "id": 145,
+        "title": "Aucassin Et Nicolette",
+        "authorId": 111
+    },
+    {
+        "id": 146,
+        "title": "Protagoras",
+        "authorId": 111
+    },
+    {
+        "id": 147,
+        "title": "Euthyd\u00e8me",
+        "authorId": 111
+    },
+    {
+        "id": 148,
+        "title": "Gorgias",
+        "authorId": 111
+    },
+    {
+        "id": 149,
+        "title": "M\u00e9nex\u00e8ne",
+        "authorId": 111
+    },
+    {
+        "id": 150,
+        "title": "M\u00e9non",
+        "authorId": 111
+    },
+    {
+        "id": 151,
+        "title": "Cratyle",
+        "authorId": 111
+    },
+    {
+        "id": 152,
+        "title": "Britannicus",
+        "authorId": 112
+    }
+]

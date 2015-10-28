@@ -1,0 +1,450 @@
+[
+    {
+        "id": 1,
+        "name": "Franz Kafka"
+    },
+    {
+        "id": 2,
+        "name": "Camus"
+    },
+    {
+        "id": 3,
+        "name": "Andrei Makine"
+    },
+    {
+        "id": 4,
+        "name": "Khalil Gibran"
+    },
+    {
+        "id": 5,
+        "name": "Ian McEwan"
+    },
+    {
+        "id": 6,
+        "name": "Marie-France Pisier"
+    },
+    {
+        "id": 7,
+        "name": "Hemingway"
+    },
+    {
+        "id": 8,
+        "name": "Paul Vialar"
+    },
+    {
+        "id": 9,
+        "name": "Natalie Sarraute"
+    },
+    {
+        "id": 10,
+        "name": "Poe"
+    },
+    {
+        "id": 11,
+        "name": "Diderot"
+    },
+    {
+        "id": 12,
+        "name": "Oscar Wilde"
+    },
+    {
+        "id": 13,
+        "name": "Patricia Cornwell"
+    },
+    {
+        "id": 14,
+        "name": "Kessel"
+    },
+    {
+        "id": 15,
+        "name": "Didier Von Cauwelaert"
+    },
+    {
+        "id": 16,
+        "name": "Feydeau"
+    },
+    {
+        "id": 17,
+        "name": "Chateaubriand"
+    },
+    {
+        "id": 18,
+        "name": "Barjavel"
+    },
+    {
+        "id": 19,
+        "name": "Cornelius Ryan"
+    },
+    {
+        "id": 20,
+        "name": "Jean-Paul Sartre"
+    },
+    {
+        "id": 21,
+        "name": "Dino Buzzati"
+    },
+    {
+        "id": 22,
+        "name": "Marie Susini"
+    },
+    {
+        "id": 23,
+        "name": "Bruce Lowery"
+    },
+    {
+        "id": 24,
+        "name": "ClaireGallois"
+    },
+    {
+        "id": 25,
+        "name": "Corneille"
+    },
+    {
+        "id": 26,
+        "name": "VIctor Hugo"
+    },
+    {
+        "id": 27,
+        "name": "Joseph B\u00e9dier"
+    },
+    {
+        "id": 28,
+        "name": "Gustave Flaubert"
+    },
+    {
+        "id": 29,
+        "name": "Lanzman"
+    },
+    {
+        "id": 30,
+        "name": "Sophocle"
+    },
+    {
+        "id": 31,
+        "name": "Stendhal"
+    },
+    {
+        "id": 32,
+        "name": "Ghislaine Dunant"
+    },
+    {
+        "id": 33,
+        "name": "Vladimir Nabokov"
+    },
+    {
+        "id": 34,
+        "name": "Merim\u00e9e"
+    },
+    {
+        "id": 35,
+        "name": "Janine Boissard"
+    },
+    {
+        "id": 36,
+        "name": "Vercors"
+    },
+    {
+        "id": 37,
+        "name": "Nick Hornby"
+    },
+    {
+        "id": 38,
+        "name": "Fran\u00e7oise Lef\u00e8vre"
+    },
+    {
+        "id": 39,
+        "name": "Fran\u00e7oise Sagan"
+    },
+    {
+        "id": 40,
+        "name": "Andr\u00e9 Gide"
+    },
+    {
+        "id": 41,
+        "name": "Sade"
+    },
+    {
+        "id": 42,
+        "name": "Marcel Proust"
+    },
+    {
+        "id": 43,
+        "name": "Anne Perry"
+    },
+    {
+        "id": 44,
+        "name": "Paul-Loup Sulitzer"
+    },
+    {
+        "id": 45,
+        "name": "Henry James"
+    },
+    {
+        "id": 46,
+        "name": "Charles Beaudelaire"
+    },
+    {
+        "id": 47,
+        "name": ""
+    },
+    {
+        "id": 48,
+        "name": "Nathalie Sarraute"
+    },
+    {
+        "id": 49,
+        "name": "Bosco"
+    },
+    {
+        "id": 50,
+        "name": "Rimbaud"
+    },
+    {
+        "id": 51,
+        "name": "Fran\u00e7ois Mauriac"
+    },
+    {
+        "id": 52,
+        "name": "Jacques Lanzmann"
+    },
+    {
+        "id": 53,
+        "name": "Raymond Radiguet"
+    },
+    {
+        "id": 54,
+        "name": "Ren\u00e9 Barjavel"
+    },
+    {
+        "id": 55,
+        "name": "L\u00e9on Tolsto\u00ef"
+    },
+    {
+        "id": 56,
+        "name": "Marguerite Duras"
+    },
+    {
+        "id": 57,
+        "name": "Bassani"
+    },
+    {
+        "id": 58,
+        "name": "Michel Del Castillo"
+    },
+    {
+        "id": 59,
+        "name": "Jean-Philippe Toussaint"
+    },
+    {
+        "id": 60,
+        "name": "Philippe Sollers"
+    },
+    {
+        "id": 61,
+        "name": "Am\u00e9lie Nothomb"
+    },
+    {
+        "id": 62,
+        "name": "Max Gallo"
+    },
+    {
+        "id": 63,
+        "name": "Michel de Saint Pierre"
+    },
+    {
+        "id": 64,
+        "name": "Voltaire"
+    },
+    {
+        "id": 65,
+        "name": "Christophe Nicolas"
+    },
+    {
+        "id": 66,
+        "name": "Ray Bradbury"
+    },
+    {
+        "id": 67,
+        "name": "Alexandre Dumas"
+    },
+    {
+        "id": 68,
+        "name": "Jean D'Ormesson"
+    },
+    {
+        "id": 69,
+        "name": "Guy Des Cars"
+    },
+    {
+        "id": 70,
+        "name": "Arto Paasilinna"
+    },
+    {
+        "id": 71,
+        "name": "Rabelais"
+    },
+    {
+        "id": 72,
+        "name": "Georges Duhamel"
+    },
+    {
+        "id": 73,
+        "name": "Jean Rouaud"
+    },
+    {
+        "id": 74,
+        "name": "Alberto Moravia"
+    },
+    {
+        "id": 75,
+        "name": "Michel D\u00e9on"
+    },
+    {
+        "id": 76,
+        "name": "Chr\u00e9tien De Troyes"
+    },
+    {
+        "id": 77,
+        "name": "Marc Levy"
+    },
+    {
+        "id": 78,
+        "name": "Alfred De Musset"
+    },
+    {
+        "id": 79,
+        "name": "Cendras"
+    },
+    {
+        "id": 80,
+        "name": "Sempt\u00e9-Goscinny"
+    },
+    {
+        "id": 81,
+        "name": "Rousseau"
+    },
+    {
+        "id": 82,
+        "name": "Freud"
+    },
+    {
+        "id": 83,
+        "name": "Henri Barbusse"
+    },
+    {
+        "id": 84,
+        "name": "Henry De Montherlant"
+    },
+    {
+        "id": 85,
+        "name": "Hom\u00e8re"
+    },
+    {
+        "id": 86,
+        "name": "Dai Sijie"
+    },
+    {
+        "id": 87,
+        "name": "Magda Szabo"
+    },
+    {
+        "id": 88,
+        "name": "Tolsto\u00ef"
+    },
+    {
+        "id": 89,
+        "name": "Modiano"
+    },
+    {
+        "id": 90,
+        "name": "Shusaku Endo"
+    },
+    {
+        "id": 91,
+        "name": "Yukio Mishima"
+    },
+    {
+        "id": 92,
+        "name": "Rosny Ain\u00e9"
+    },
+    {
+        "id": 93,
+        "name": "Jean Giraudoux"
+    },
+    {
+        "id": 94,
+        "name": "Robertson Davies"
+    },
+    {
+        "id": 95,
+        "name": "Philippe Labro"
+    },
+    {
+        "id": 96,
+        "name": "Balzac"
+    },
+    {
+        "id": 97,
+        "name": "Aldous Huxley"
+    },
+    {
+        "id": 98,
+        "name": "Jean Rhys"
+    },
+    {
+        "id": 99,
+        "name": "Susan Minot"
+    },
+    {
+        "id": 100,
+        "name": "Gautier"
+    },
+    {
+        "id": 101,
+        "name": "Andr\u00e9 Breton"
+    },
+    {
+        "id": 102,
+        "name": "Romain Gary"
+    },
+    {
+        "id": 103,
+        "name": "Jacques De Lacretelle"
+    },
+    {
+        "id": 104,
+        "name": "Hoffmann"
+    },
+    {
+        "id": 105,
+        "name": "Annie Saumont"
+    },
+    {
+        "id": 106,
+        "name": "Marguerite Yourcenar"
+    },
+    {
+        "id": 107,
+        "name": "Alain Absire"
+    },
+    {
+        "id": 108,
+        "name": "Lucr\u00e8ce"
+    },
+    {
+        "id": 109,
+        "name": "Albert Camus"
+    },
+    {
+        "id": 110,
+        "name": "Pierre Peju"
+    },
+    {
+        "id": 111,
+        "name": "Platon"
+    },
+    {
+        "id": 112,
+        "name": "Racine"
+    }
+]
