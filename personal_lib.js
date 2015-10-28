@@ -1,14 +1,6 @@
 /** @type {?lf.Database} */
 var db = null;
 
-/**
- * The data model observed by UI.
- * @type {{count: number}}
- */
-var model = {
-    count: 0
-};
-
 var query;
 
 var title = ".+";
@@ -19,7 +11,6 @@ var author = ".+";
 $(function() {
     main().then(function() {
         // Simulate Controller/Model bindings.
-        setUpBinding();
         setUpSearch();
         selectAllBooks();
     });
@@ -47,17 +38,6 @@ function setUpSearch() {
 
         author = value;
         selectAllBooks();
-    });
-}
-
-function setUpBinding() {
-    var book = db.getSchema().table('Book');
-    query = db.select(lf.fn.count(book.title).as('num')).
-        from(book)
-    ;
-
-    db.observe(query, function(changes) {
-        model.count = changes[0].object[0]['num'];
     });
 }
 
@@ -101,18 +81,21 @@ function selectAllBooks() {
     $authorHelpBox.hide();
 
     var book = db.getSchema().table('Book');
-    db.select(book.title, book.author)
+    var authorTable = db.getSchema().table('Author');
+
+    db.select(book.title, authorTable.name)
         .from(book)
+        .innerJoin(authorTable, book.authorId.eq(authorTable.id))
         .where(lf.op.and(
             book.title.match(regexpTitle),
-            book.author.match(regexpAuthor)
+            authorTable.name.match(regexpAuthor)
         ))
-        .orderBy(book.author, lf.Order.ASC)
+        .orderBy(authorTable.name, lf.Order.ASC)
         .exec().then(
         function(results) {
 
             $(results).each(function(index, result) {
-                $bookLists.append('<li class="list-group-item">' + result.title + ' - ' + result.author + '</li>');
+                $bookLists.append('<li class="list-group-item">' + result.Book.title + ' - ' + result.Author.name + '</li>');
             });
         }
     );
@@ -135,6 +118,7 @@ function main() {
  */
 function addData() {
     return Promise.all([
+        insertData('authors.json', db.getSchema().table('Author')),
         insertData('books.json', db.getSchema().table('Book'))
     ]).then(function(queries) {
         var tx = db.createTransaction();
