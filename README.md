@@ -1,6 +1,6 @@
-#Personal library [![Build Status](https://travis-ci.org/mhor/personal-library.svg?branch=master)](https://travis-ci.org/mhor/personal-library)
+# Personal library [![Build Status](https://travis-ci.org/mhor/personal-library.svg?branch=master)](https://travis-ci.org/mhor/personal-library)
 
-##Introduction
+## Introduction
 
 List of my books
 
@@ -14,6 +14,6 @@ $ bower install
 $ gulp debug
 ```
 
-##License
+## License
 
 MIT License, see [LICENSE](LICENSE)
